@@ -45,7 +45,7 @@ Get all jobs=  http://localhost:4000/api/v1/job/getall
 Get My jobs=  http://localhost:4000/api/v1/job/getmyjobs  
 delete jobs=  http://localhost:4000/api/v1/job/delete/  
 get a single jobs=  http://localhost:4000/api/v1/job/get/
-In Application Routes
+In Application Routes  
 Post application=http://localhost:4000/api/v1/application/post/  
 Employer get all application= http://localhost:4000/api/v1/application/employer/getall  
 Jobseeker get all application= http://localhost:4000/api/v1/application/jobseeker/getall  
