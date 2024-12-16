@@ -40,14 +40,17 @@ GetUser=http://localhost:4000/api/v1/user/getUser
 updateProfile=http://localhost:4000/api/v1/user/update/profile  
 updatePassword=http://localhost:4000/api/v1/user/update/password  
 In Job Routes  
-Post Jobs=http://localhost:4000/api/v1/job/post  
-Get all jobs=  http://localhost:4000/api/v1/job/getall
-Get My jobs=  http://localhost:4000/api/v1/job/getmyjobs
-delete jobs=  http://localhost:4000/api/v1/job/delete/
-get a single jobs=  http://localhost:4000/api/v1/job/get/66bd93b7e5bfa4eb2b5b7d40
+Post Jobs=http://localhost:4000/api/v1/job/post    
+Get all jobs=  http://localhost:4000/api/v1/job/getall  
+Get My jobs=  http://localhost:4000/api/v1/job/getmyjobs  
+delete jobs=  http://localhost:4000/api/v1/job/delete/  
+get a single jobs=  http://localhost:4000/api/v1/job/get/
+In Application Routes
+Post application=http://localhost:4000/api/v1/application/post/  
+Employer get all application= http://localhost:4000/api/v1/application/employer/getall  
+Jobseeker get all application= http://localhost:4000/api/v1/application/jobseeker/getall  
+delete application= http://localhost:4000/api/v1/application/delete/
 
-
-# MongodB connection 
 # Step to run project 
 nodemon server.js (To run backend folder)  
 npm run dev (Frontend)
