@@ -58,7 +58,6 @@ npm run dev (Frontend)
 http://localhost:5173/
 
 ![Screenshot (367)](https://github.com/user-attachments/assets/36a16934-c7ba-475b-b2e7-af7c5e298530)
-![Screenshot (368)](https://github.com/user-attachments/assets/46b162f4-ba66-4805-88cc-cef3eb82c629)
 ![Screenshot (369)](https://github.com/user-attachments/assets/02872a6c-5c08-44c2-8521-502b9602626a)
 ![Screenshot (370)](https://github.com/user-attachments/assets/69ee9888-50d9-4508-b00c-172f0c51e5bd)
 ![Screenshot (371)](https://github.com/user-attachments/assets/a1e894fc-dc40-4b25-a3e6-a8b901b44c65)
