@@ -57,6 +57,12 @@ npm run dev (Frontend)
 # To run code loclly
 http://localhost:5173/
 
+![Screenshot (373)](https://github.com/user-attachments/assets/40f5a20d-d5eb-4de2-8fb9-5eb0faafabf6)
+![Screenshot (374)](https://github.com/user-attachments/assets/1b4bcb64-fc7e-454a-be48-c4e1ab5ebfbf)
+![Screenshot (375)](https://github.com/user-attachments/assets/053cc6ec-b94d-43c7-9945-cf4379fcc964)
+![Screenshot (376)](https://github.com/user-attachments/assets/6aff6de5-ec34-4a2c-accb-8030eeee95da)
+![Screenshot (377)](https://github.com/user-attachments/assets/da2245d2-b3ac-412c-b2a2-1ab015c891f6)
+
 
 ![Screenshot (367)](https://github.com/user-attachments/assets/36a16934-c7ba-475b-b2e7-af7c5e298530)
 ![Screenshot (368)](https://github.com/user-attachments/assets/46b162f4-ba66-4805-88cc-cef3eb82c629)
